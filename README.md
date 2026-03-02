@@ -20,6 +20,8 @@ public class YourClassDrawer : SubListDrawer { }
 
 Fields between `[SubList]` attributes are grouped under that foldout. Use `startClosed: true` to collapse by default.
 
+<img alt="image" src="https://github.com/user-attachments/assets/459a0ec4-a7aa-42cc-9060-80c1e8f84950" />
+
 ---
 
 ## ShowIf Usage
