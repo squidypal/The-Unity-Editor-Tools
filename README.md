@@ -4,7 +4,7 @@
 - **ShowIf / ShowIfEnum:** Conditionally show fields based on other field values (bool or enum).
 
 #### Why not use a full library?
-Editor tools are generally made to be all-purpose and thus have a lot of functionality I will never use; For personal projects where I do not need nor want these advanced features, these are the 2 I keep using.
+Editor tools are generally made to be all-purpose and thus have a lot of functionality I will never use; For personal projects where I do not need nor want these advanced features, these are the tools I keep using.
 
 ---
 
