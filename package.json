@@ -1,0 +1,11 @@
+{
+  "name": "com.squidypal.editor-tools",
+  "version": "1.0.0",
+  "displayName": "Squidypal Editor Tools",
+  "description": "SubList and ShowIf property drawers for Unity Inspector",
+  "unity": "2021.3",
+  "author": {
+    "name": "squidypal",
+    "url": "https://github.com/squidypal"
+  }
+}
