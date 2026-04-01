@@ -1,8 +1,0 @@
-{
-  "name": "com.squidypal.editor-tools.editor",
-  "references": [
-    "com.squidypal.editor-tools"
-  ],
-  "includePlatforms": ["Editor"],
-  "excludePlatforms": []
-}
