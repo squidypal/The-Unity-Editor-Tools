@@ -8,6 +8,12 @@ Editor tools are generally made to be all-purpose and thus have a lot of functio
 
 ---
 
+## Installation
+
+1. Go to **Window** -> **Package Management** -> **Package Manager**
+2. Click the **+** sign in the top left
+3. Click **Install Package From Git Url** and paste `https://github.com/squidypal/The-Unity-Editor-Tools.git`
+
 ## Sublist Usage
 
 1. Add `[SubList("Name")]` to the first field of each group in your serializable class.
